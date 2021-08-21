@@ -12,7 +12,7 @@
    {
       "id": 1,
       "title": "Conor Java 29 2021",
-      "categoria": "MTB",
+      "category": "MTB",
       "descriptionPrimary": "Bicicleta de aluminio Conor Java 29, de asistencia eléctrica al pedaleo con batería de 504 Wh.",
       "descriptionSecondary":"Con un montaje de: Cuadro 29 Aluminio 6061, tuberia hidroformada Horquilla Suntour XCM RL con bloqueo, recorrido 100mm, Manetas Shimano Acera M3000 9v, Frenos Shimano disco hidraúlicos MT-200, Cambio Shimano Acera M3000 9v, Cassette Shimano HG200 9v 11/34T, Cadena E-BIKE 1/2 X 11/128 S9e, Plato Aluminio 34T, Batería SILION-ROCKETS 504 WH 36V/14 AH integrada",
       "price": 1.540,
@@ -21,7 +21,7 @@
    {
       "id": 2,
       "title": "Specialized Turbo Levo HT 29 2021",
-      "categoria": "MTB",
+      "category": "MTB",
       "descriptionPrimary": "Bicicleta de aluminio Turbo Levo HT, de asistencia eléctrica al pedaleo con motor Specialized 1.2 E.",
       "descriptionSecondary":"Suave, eficiente y silencioso y batería de 400 Wh. Viene equipada con transmisión Shimano de 9 velocidades, frenos de disco hidráulicos y horquilla SR Suntour de 100 mm de recorrido para uso Trail.",
       "price": 2.899,
@@ -30,7 +30,7 @@
    {
       "id": 3,
       "title": "Xiaomi Qicycle XL Electric Bike",
-      "categoria": "Electrica",
+      "category": "Electrica",
       "descriptionPrimary": "La bicicleta eléctrica Xiaomi QiCycle XL es una bicicleta 100% eléctrica ideal para tus desplazamientos.",
       "descriptionSecondary":"Gracias a su batería de gran capacidad fabricada por LG y su motor de 250w ubicado en la rueda delantera es capaz de asistir al pedaleo hasta velocidades de 25 km/h. Equipa un cambio de 3 velocidades firmado por la prestigiosa Shimano que nos ofrecerá diferentes marchas para poder subir cuestas con mayor facilidad o bajar rampas a mayor velocidad. Ligereza y resistencia son dos de las mayores características del cuadro de la Xiaomi Xicycle, consiguiendo un peso de solo 14,5 kilos. Un peso que la convierte en una de las bicicletas más ligeras del mercado. Las rampas y cuestas de tu ciudad ya no serán un problema en tus desplazamientos, ya que la potencia del motor te asistirá de manera eficiente en la subida.",
       "price": 899,
@@ -39,7 +39,7 @@
    {
       "id": 4,
       "title": "BH Atom Street 2021",
-      "categoria": "Electrica",
+      "category": "Electrica",
       "descriptionPrimary": "Bicicleta de aluminio Atom Street de asistencia eléctrica al pedaleo con batería de 500 Wh.",
       "descriptionSecondary":"Transmisión Ashimano de 8 velocidades y horquilla de suspensión para uso Urbano. Tiene un cuadro Street Wave Alloy 26 Internal Cable Routing, horquilla SR Suntour NEX DS 63mm, potencia BH Traditional, Dirección Semi-Integrated 1 1/8 ,manetas cambio Shimano Acera, cambio trasero Shimano Acera 8sp, pedalier: FSA 38T-170mm, cassette Shimano HG31 8sp (11-32T)",
       "price": 2.049,
@@ -48,7 +48,7 @@
    {
       "id": 5,
       "title": "Ryme Bikes Soho 28",
-      "categoria": "Paseo",
+      "category": "Paseo",
       "descriptionPrimary": "Bicicleta de ocio con guardabarros y parrilla incorporados.",
       "descriptionSecondary":"Bicicleta de ocio que gracias a su cambio interno Sturmey Archer de 3 velocidades, perfecto para el ciclismo urbano, te olvidarás de las averías y del mantenimiento. Además tiene cuadro de acero CR-MO altamente resistente.",
       "price": 342,
@@ -57,7 +57,7 @@
    {
       "id": 6,
       "title": "Megamo Ronda 28 2021",
-      "categoria": "Paseo",
+      "category": "Paseo",
       "descriptionPrimary": "Bicicleta Megamo Ronda con ruedas de 28, cambio Shimano de 6 velocidades y horquilla rígida para uso Urbano.",
       "descriptionSecondary":"Tiene un Cuadro: CITY HI-TEN, Horquilla: HI-TEN UNICROWN, Cambio Trasero: Shimano TZ50 6s, Manetas cambio: Shimano REVOSHIFT RS35 6s, Bielas/Plato: Single SPEED 38x170mm, Piñón: Shimano TZ20 6s, Conjunto de frenos: ALLOY V-BRAKE, Cubiertas: CITY 28 x1.75, Llantas: Alloy, Ruedas: 28",
       "price": 259,
