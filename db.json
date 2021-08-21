@@ -44,6 +44,24 @@
       "descriptionSecondary":"Además viene equipada con transmisión Shimano de 9 velocidades, frenos hidráulicos Tektro y horquilla Suntour XCM. Pensada para largos recorridos y desplazamientos rápidos, asfalto liso y rutas offroad: La E-Teru es una verdadera all-rounder.",
       "price": 2.399,
       "pictureUrl": "./ImaginesDeBicis/bici-mtb4.jpg"
+   },
+   {
+      "id": 4,
+      "title": "Ghost E-Teru Essential 27 2021",
+      "categoria": "MTB",
+      "descriptionPrimary": "La bicicleta con cuadro de aluminio E-Teru Essential, es de asistencia eléctrica al pedaleo tiene batería Bosch de 500 Wh.",
+      "descriptionSecondary":"Además viene equipada con transmisión Shimano de 9 velocidades, frenos hidráulicos Tektro y horquilla Suntour XCM. Pensada para largos recorridos y desplazamientos rápidos, asfalto liso y rutas offroad: La E-Teru es una verdadera all-rounder.",
+      "price": 2.399,
+      "pictureUrl": "./ImaginesDeBicis/bici-mtb4.jpg"
+   },
+   {
+      "id": 4,
+      "title": "Ghost E-Teru Essential 27 2021",
+      "categoria": "MTB",
+      "descriptionPrimary": "La bicicleta con cuadro de aluminio E-Teru Essential, es de asistencia eléctrica al pedaleo tiene batería Bosch de 500 Wh.",
+      "descriptionSecondary":"Además viene equipada con transmisión Shimano de 9 velocidades, frenos hidráulicos Tektro y horquilla Suntour XCM. Pensada para largos recorridos y desplazamientos rápidos, asfalto liso y rutas offroad: La E-Teru es una verdadera all-rounder.",
+      "price": 2.399,
+      "pictureUrl": "./ImaginesDeBicis/bici-mtb4.jpg"
    }
 ]
 }
