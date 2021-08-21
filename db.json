@@ -53,6 +53,61 @@
       "descriptionSecondary":"Tiene un montaje de Horquilla: Suntour XCM RL con bloqueo, recorrido 100mm, Cuadro 27,5 Aluminio 6061, tubería hidroformada ,Batería: SINLION-ROCKETS 504WH 36V/14AH ,Buje delantero: Aluminio MHB20 ,Buje trasero: MOTOR BAFANG RM G020.250.DC ,Cadena: E-BIKE 1/2 X 11/128 S9e ,Cambio: Shimano M310 ,Cargador: SINLION ID-1-PRO 36V|2A ,Cubiertas: Schwalbe Rapid Rob 27,5X2,25 ,Dirección: A-head Integrada 1 1/8",
       "price": 1.550,
       "pictureUrl": "./public/Imagines de Bicis/bicimtb5.jpg"
+   },
+        {
+      "id": 7,
+      "title": "Xiaomi Qicycle XL Electric Bike",
+      "categoria": "Electrica",
+      "descriptionPrimary": "La bicicleta eléctrica Xiaomi QiCycle XL es una bicicleta 100% eléctrica ideal para tus desplazamientos.",
+      "descriptionSecondary":"Gracias a su batería de gran capacidad fabricada por LG y su motor de 250w ubicado en la rueda delantera es capaz de asistir al pedaleo hasta velocidades de 25 km/h. Equipa un cambio de 3 velocidades firmado por la prestigiosa Shimano que nos ofrecerá diferentes marchas para poder subir cuestas con mayor facilidad o bajar rampas a mayor velocidad. Ligereza y resistencia son dos de las mayores características del cuadro de la Xiaomi Xicycle, consiguiendo un peso de solo 14,5 kilos. Un peso que la convierte en una de las bicicletas más ligeras del mercado. Las rampas y cuestas de tu ciudad ya no serán un problema en tus desplazamientos, ya que la potencia del motor te asistirá de manera eficiente en la subida.",
+      "price": 899,
+      "pictureUrl": "./public/Imagines de Bicis/bici-electrica"
+   },
+   {
+      "id": 8,
+      "title": "BH Atom Street 2021",
+      "categoria": "Electrica",
+      "descriptionPrimary": "Bicicleta de aluminio Atom Street de asistencia eléctrica al pedaleo con batería de 500 Wh.",
+      "descriptionSecondary":"Transmisión Ashimano de 8 velocidades y horquilla de suspensión para uso Urbano. Tiene un cuadro Street Wave Alloy 26 Internal Cable Routing, horquilla SR Suntour NEX DS 63mm, potencia BH Traditional, Dirección Semi-Integrated 1 1/8 ,manetas cambio Shimano Acera, cambio trasero Shimano Acera 8sp, pedalier: FSA 38T-170mm, cassette Shimano HG31 8sp (11-32T)",
+      "price": 2.049,
+      "pictureUrl": "./public/Imagines de Bicis/bici-electrica2"
+   },
+   {
+      "id": 9,
+      "title": "SixBikes ESB-68 Falcon",
+      "categoria": "Electrica",
+      "descriptionPrimary": "Bicicleta eléctrica urbana con cuadro de aluminio y ruedas de 700 x 35.",
+      "descriptionSecondary":"La geometría minimalista conseguida en su cuadro, la hace muy cómoda, versátil y ágil. La posición en la conducción, es algo agresiva, para que puedas ir más rápido. Con una rueda de 700C y un motor montado en su eje trasero, se ha conseguido poder llegar a una máxima velocidad en menos tiempo. Con un solo piñón nos sirve para movernos por la ciudad de una forma muy ágil. Si te gusta moverte entre los coches, con el máximo control, este es tu modelo. Las luces integradas en el cuadro y controladas desde su pantalla LCD del manillar, la hacen muy visible y fácil de encender en cualquier momento. Su batería desmontable, no solo te proporciona 50 Km a máxima potencia, también te un puerto para cargar tu dispositivo si lo necesitas. Dispones de frenos de disco que te garantizan un máximo control en tus frenadas.",
+      "price": 2.300,
+      "pictureUrl": "./public/Imagines de Bicis/bici-electrica3"
+   },
+   {
+      "id": 10,
+      "title": "SixBikes ESB-65",
+      "categoria": "Electrica",
+      "descriptionPrimary": "Bicicleta plegable de aluminio SixBikes Esb-65 (20 x 2.35) de asistencia eléctrica al pedaleo, para uso Urbano.",
+      "descriptionSecondary":"Aun siendo un diseño más clásico que las Fat, tiene claramente un espíritu deportivo y competidor. Su diseño de batería escondida en la barra del sillín, la hace mucho más moderna y juvenil. Todos sus componentes la hacen lo suficientemente resistente para que se pueda moverse por la ciudad a toda velocidad. Su rueda de 20” 2.35 hace que también se pueda salir de la ciudad para tomar algunos caminos. Su motor de altas prestaciones te permitirá llegar a donde quieras, con una autonomía de hasta 50 Km con toda su potencia. Sus medidas plegada te permite meterla bajo la mesa de trabajo o en el maletero de cualquier coche, por muy pequeño que sea.",
+      "price": 1.550,
+      "pictureUrl": "./public/Imagines de Bicis/bici-electrica4"
+   },
+   {
+      "id": 11,
+      "title": "Littium Ibiza Dogma 10,4A 2021",
+      "categoria": "Electrica",
+      "descriptionPrimary": "Bicicleta plegable Littium Ibiza Dogma, de asistencia eléctrica al pedaleo con batería de 14A, manejable, ágil, cómoda",
+      "descriptionSecondary":"Equipada con los mejores acabados y accesorios para uso Urbano: La Ibiza Dogma es una bicicleta diseñada y desarrollada para moverse por la ciudad como respuesta a la necesidad actual de una movilidad sostenible. Una E-bike plegable de gran versatilidad y potencia que cuenta con las mejores prestaciones del mercado.",
+      "price": 1.890,
+      "pictureUrl": "./public/Imagines de Bicis/bici-electrica5"
+   },
+   {
+      "id": 12,
+      "title": "Bergamont E-Horizon Tour 400 Wave 2021",
+      "categoria": "Electrica",
+      "descriptionPrimary": "Bicicleta de aluminio E-Horizon Tour 400 Wave, de asistencia eléctrica al pedaleo con batería Bosch de 400 Wh.",
+      "descriptionSecondary":"Es una E-Trekking todoterreno con un cuadro Wave recientemente desarrollado en la construcción Monotube Concept, una ergonomía perfecta que tiene características de conducción excepcionales.",
+      "price": 2.499,
+      "pictureUrl": "./public/Imagines de Bicis/bici-electrica6"
    }
+
 ]
 }
