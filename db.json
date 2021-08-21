@@ -28,7 +28,7 @@
       "pictureUrl": "./ImaginesDeBicis/bici-mtb2.jpg"
    },
    {
-      "id": 7,
+      "id": 3,
       "title": "Xiaomi Qicycle XL Electric Bike",
       "categoria": "Electrica",
       "descriptionPrimary": "La bicicleta eléctrica Xiaomi QiCycle XL es una bicicleta 100% eléctrica ideal para tus desplazamientos.",
@@ -37,7 +37,7 @@
       "pictureUrl": "./ImaginesDeBicis/bici-electrica.jpg"
    },
    {
-      "id": 8,
+      "id": 4,
       "title": "BH Atom Street 2021",
       "categoria": "Electrica",
       "descriptionPrimary": "Bicicleta de aluminio Atom Street de asistencia eléctrica al pedaleo con batería de 500 Wh.",
@@ -46,16 +46,16 @@
       "pictureUrl": "./ImaginesDeBicis/bici-electrica2.jpg"
    },
    {
-      "id": 13,
+      "id": 5,
       "title": "Ryme Bikes Soho 28",
       "categoria": "Paseo",
       "descriptionPrimary": "Bicicleta de ocio con guardabarros y parrilla incorporados.",
       "descriptionSecondary":"Bicicleta de ocio que gracias a su cambio interno Sturmey Archer de 3 velocidades, perfecto para el ciclismo urbano, te olvidarás de las averías y del mantenimiento. Además tiene cuadro de acero CR-MO altamente resistente.",
       "price": 342,
-      "pictureUrl": "./ImaginesDeBicis/bici-de-paseo"
+      "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/258076.jpg"
    },
    {
-      "id": 14,
+      "id": 6,
       "title": "Megamo Ronda 28 2021",
       "categoria": "Paseo",
       "descriptionPrimary": "Bicicleta Megamo Ronda con ruedas de 28, cambio Shimano de 6 velocidades y horquilla rígida para uso Urbano.",
