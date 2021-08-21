@@ -12,44 +12,47 @@
    {
       "id": 1,
       "title": "Conor Java 29 2021",
-      "description": "Bicicleta de aluminio Conor Java 29, de asistencia eléctrica al pedaleo con batería de 504 Wh.",
-      "price": 2350,
-      "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/426970.jpeg"
+      "categoria": "MTB",
+      "descriptionPrimary": "Bicicleta de aluminio Conor Java 29, de asistencia eléctrica al pedaleo con batería de 504 Wh.",
+      "descriptionSecondary":"Con un montaje de: Cuadro 29 Aluminio 6061, tuberia hidroformada Horquilla Suntour XCM RL con bloqueo, recorrido 100mm, Manetas Shimano Acera M3000 9v, Frenos Shimano disco hidraúlicos MT-200, Cambio Shimano Acera M3000 9v, Cassette Shimano HG200 9v 11/34T, Cadena E-BIKE 1/2 X 11/128 S9e, Plato Aluminio 34T, Batería SILION-ROCKETS 504 WH 36V/14 AH integrada",
+      "price": 1.540,
+      "pictureUrl": "./public/Imagines de Bicis/bicimtb.jpg"
    },
    {
       "id": 2,
       "title": "Specialized Turbo Levo HT 29 2021",
-      "description": "Bicicleta de aluminio Turbo Levo HT, de asistencia eléctrica al pedaleo con motor Specialized 1.2 E.",
-      "price": 5600,
-      "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/335294.jpg"
+      "categoria": "MTB",
+      "descriptionPrimary": "Bicicleta de aluminio Turbo Levo HT, de asistencia eléctrica al pedaleo con motor Specialized 1.2 E.",
+      "descriptionSecondary":"Suave, eficiente y silencioso y batería de 400 Wh. Viene equipada con transmisión Shimano de 9 velocidades, frenos de disco hidráulicos y horquilla SR Suntour de 100 mm de recorrido para uso Trail.",
+      "price": 2.899,
+      "pictureUrl": "./public/Imagines de Bicis/bicimtb2.jpg"
    },
    {
       "id": 3,
       "title": "GT Epantera Dash 29 2020",
-      "description": "La Pantera GT-E presenta un estilo icónico Triple Triangle ™ y la asistencia de Shimano STePS.",
-      "price": 6500,
-      "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/348378.jpg"
+      "categoria": "MTB",
+      "descriptionPrimary": "La Pantera GT-E presenta un estilo icónico Triple Triangle ™ y la asistencia de Shimano STePS.",
+      "descriptionSecondary":"Tiene un cuadro Nuevo ePantera Alloy 29 Frame, Shimano STEPS Specific, batería interna, tubo de dirección cónico, Boost 12x148 eje pasante, Horquilla SR Suntour XCM, 100 mm, desplazamiento de 46 mm ,Cadena: KMC HG71, 8 velocidades, Bielas: Shimano FC-E 5010 165mm,Cambio tras. Shimano Altus, Mandos: Shimano Altus, 8 velocidades, Casete: Shimano HG200, 11-36, 8 velocidades, Ruedas: WTB STX i25 TCSLlantas: WTB Ranger Comp, 29 x 2.25, Shimano, QR y Radios: Acero inoxidable: 14g.",
+      "price": 2.499,
+      "pictureUrl": "./public/Imagines de Bicis/bicimtb3.jpg"
    },
    {
       "id": 4,
       "title": "Ghost E-Teru Essential 27 2021",
-      "description": "La bicicleta con cuadro de aluminio E-Teru Essential, es de asistencia eléctrica al pedaleo tiene batería Bosch de 500 Wh.",
-      "price": 3400,
-      "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/462725.png"
-   },
-   {
-      "id": 5,
-      "title": "Corratec E-Power X Vert Race 2021",
-      "description": "Bicicleta Corratec E-Power X Vert Race, de asistencia eléctrica al pedaleo con batería Bosch Power Tube 500wh.",
-      "price": 5000,
-      "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/_0_459360.jpg"
+      "categoria": "MTB",
+      "descriptionPrimary": "La bicicleta con cuadro de aluminio E-Teru Essential, es de asistencia eléctrica al pedaleo tiene batería Bosch de 500 Wh.",
+      "descriptionSecondary":"Además viene equipada con transmisión Shimano de 9 velocidades, frenos hidráulicos Tektro y horquilla Suntour XCM. Pensada para largos recorridos y desplazamientos rápidos, asfalto liso y rutas offroad: La E-Teru es una verdadera all-rounder.",
+      "price": 2.399,
+      "pictureUrl": "./public/Imagines de Bicis/bicimtb4.jpg"
    },
    {
       "id": 6,
       "title": "Conor Nepal E-Mtb 27,5 2022",
-      "description": "Bicicleta de asistencia eléctrica al pedaleo Nepal E-Mtb 27,5, viene equipada con Motor BAFANG RM 250 y batería dede 504 Wh.",
-      "price": 6000,
-      "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/472025.jpg"
+      "categoria": "MTB",
+      "descriptionPrimary": "Bicicleta de asistencia eléctrica al pedaleo Nepal E-Mtb 27,5, viene equipada con Motor BAFANG RM 250 y batería dede 504 Wh, para uso Recreativo.",
+      "descriptionSecondary":"Tiene un montaje de Horquilla: Suntour XCM RL con bloqueo, recorrido 100mm, Cuadro 27,5 Aluminio 6061, tubería hidroformada ,Batería: SINLION-ROCKETS 504WH 36V/14AH ,Buje delantero: Aluminio MHB20 ,Buje trasero: MOTOR BAFANG RM G020.250.DC ,Cadena: E-BIKE 1/2 X 11/128 S9e ,Cambio: Shimano M310 ,Cargador: SINLION ID-1-PRO 36V|2A ,Cubiertas: Schwalbe Rapid Rob 27,5X2,25 ,Dirección: A-head Integrada 1 1/8",
+      "price": 1.550,
+      "pictureUrl": "./public/Imagines de Bicis/bicimtb5.jpg"
    }
 ]
 }
