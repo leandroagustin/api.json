@@ -28,22 +28,40 @@
       "pictureUrl": "./ImaginesDeBicis/bici-mtb2.jpg"
    },
    {
-      "id": 3,
-      "title": "GT Epantera Dash 29 2020",
-      "categoria": "MTB",
-      "descriptionPrimary": "La Pantera GT-E presenta un estilo icónico Triple Triangle ™ y la asistencia de Shimano STePS.",
-      "descriptionSecondary":"Tiene un cuadro Nuevo ePantera Alloy 29 Frame, Shimano STEPS Specific, batería interna, tubo de dirección cónico, Boost 12x148 eje pasante, Horquilla SR Suntour XCM, 100 mm, desplazamiento de 46 mm ,Cadena: KMC HG71, 8 velocidades, Bielas: Shimano FC-E 5010 165mm,Cambio tras. Shimano Altus, Mandos: Shimano Altus, 8 velocidades, Casete: Shimano HG200, 11-36, 8 velocidades, Ruedas: WTB STX i25 TCSLlantas: WTB Ranger Comp, 29 x 2.25, Shimano, QR y Radios: Acero inoxidable: 14g.",
-      "price": 2.499,
-      "pictureUrl": "./ImaginesDeBicis/bici-mtb3.jpg"
+      "id": 7,
+      "title": "Xiaomi Qicycle XL Electric Bike",
+      "categoria": "Electrica",
+      "descriptionPrimary": "La bicicleta eléctrica Xiaomi QiCycle XL es una bicicleta 100% eléctrica ideal para tus desplazamientos.",
+      "descriptionSecondary":"Gracias a su batería de gran capacidad fabricada por LG y su motor de 250w ubicado en la rueda delantera es capaz de asistir al pedaleo hasta velocidades de 25 km/h. Equipa un cambio de 3 velocidades firmado por la prestigiosa Shimano que nos ofrecerá diferentes marchas para poder subir cuestas con mayor facilidad o bajar rampas a mayor velocidad. Ligereza y resistencia son dos de las mayores características del cuadro de la Xiaomi Xicycle, consiguiendo un peso de solo 14,5 kilos. Un peso que la convierte en una de las bicicletas más ligeras del mercado. Las rampas y cuestas de tu ciudad ya no serán un problema en tus desplazamientos, ya que la potencia del motor te asistirá de manera eficiente en la subida.",
+      "price": 899,
+      "pictureUrl": "./ImaginesDeBicis/bici-electrica.jpg"
    },
    {
-      "id": 4,
-      "title": "Ghost E-Teru Essential 27 2021",
-      "categoria": "MTB",
-      "descriptionPrimary": "La bicicleta con cuadro de aluminio E-Teru Essential, es de asistencia eléctrica al pedaleo tiene batería Bosch de 500 Wh.",
-      "descriptionSecondary":"Además viene equipada con transmisión Shimano de 9 velocidades, frenos hidráulicos Tektro y horquilla Suntour XCM. Pensada para largos recorridos y desplazamientos rápidos, asfalto liso y rutas offroad: La E-Teru es una verdadera all-rounder.",
-      "price": 2.399,
-      "pictureUrl": "./ImaginesDeBicis/bici-mtb4.jpg"
+      "id": 8,
+      "title": "BH Atom Street 2021",
+      "categoria": "Electrica",
+      "descriptionPrimary": "Bicicleta de aluminio Atom Street de asistencia eléctrica al pedaleo con batería de 500 Wh.",
+      "descriptionSecondary":"Transmisión Ashimano de 8 velocidades y horquilla de suspensión para uso Urbano. Tiene un cuadro Street Wave Alloy 26 Internal Cable Routing, horquilla SR Suntour NEX DS 63mm, potencia BH Traditional, Dirección Semi-Integrated 1 1/8 ,manetas cambio Shimano Acera, cambio trasero Shimano Acera 8sp, pedalier: FSA 38T-170mm, cassette Shimano HG31 8sp (11-32T)",
+      "price": 2.049,
+      "pictureUrl": "./ImaginesDeBicis/bici-electrica2.jpg"
+   },
+   {
+      "id": 13,
+      "title": "Ryme Bikes Soho 28",
+      "categoria": "Paseo",
+      "descriptionPrimary": "Bicicleta de ocio con guardabarros y parrilla incorporados.",
+      "descriptionSecondary":"Bicicleta de ocio que gracias a su cambio interno Sturmey Archer de 3 velocidades, perfecto para el ciclismo urbano, te olvidarás de las averías y del mantenimiento. Además tiene cuadro de acero CR-MO altamente resistente.",
+      "price": 342,
+      "pictureUrl": "./ImaginesDeBicis/bici-de-paseo"
+   },
+   {
+      "id": 14,
+      "title": "Megamo Ronda 28 2021",
+      "categoria": "Paseo",
+      "descriptionPrimary": "Bicicleta Megamo Ronda con ruedas de 28, cambio Shimano de 6 velocidades y horquilla rígida para uso Urbano.",
+      "descriptionSecondary":"Tiene un Cuadro: CITY HI-TEN, Horquilla: HI-TEN UNICROWN, Cambio Trasero: Shimano TZ50 6s, Manetas cambio: Shimano REVOSHIFT RS35 6s, Bielas/Plato: Single SPEED 38x170mm, Piñón: Shimano TZ20 6s, Conjunto de frenos: ALLOY V-BRAKE, Cubiertas: CITY 28 x1.75, Llantas: Alloy, Ruedas: 28",
+      "price": 259,
+      "pictureUrl": "./ImaginesDeBicis/bici-de-paseo2"
    }
 ]
 }
