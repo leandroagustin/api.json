@@ -12,21 +12,21 @@
    {
       "id": 1,
       "title": "Conor Java 29 2021",
-      "description": "Bicicleta de aluminio Conor Java 29, de asistencia eléctrica al pedaleo con batería de 504 Wh, y transmisión de 9 velocidades para uso Recreativo.",
+      "description": "Bicicleta de aluminio Conor Java 29, de asistencia eléctrica al pedaleo con batería de 504 Wh.",
       "price": 2350,
       "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/426970.jpeg"
    },
    {
       "id": 2,
       "title": "Specialized Turbo Levo HT 29 2021",
-      "description": "Bicicleta de aluminio Turbo Levo HT, de asistencia eléctrica al pedaleo con motor Specialized 1.2 E, suave, eficiente y silencioso y batería de 400 Wh.",
+      "description": "Bicicleta de aluminio Turbo Levo HT, de asistencia eléctrica al pedaleo con motor Specialized 1.2 E.",
       "price": 5600,
       "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/335294.jpg"
    },
    {
       "id": 3,
       "title": "GT Epantera Dash 29 2020",
-      "description": "La Pantera GT-E presenta un estilo icónico Triple Triangle ™ y la asistencia de Shimano STePS para brindar a los ciclistas la ventaja que necesitan para ir más lejos y más rápido cuando estás en tus senderos favoritos.",
+      "description": "La Pantera GT-E presenta un estilo icónico Triple Triangle ™ y la asistencia de Shimano STePS.",
       "price": 6500,
       "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/348378.jpg"
    },
@@ -40,14 +40,14 @@
    {
       "id": 5,
       "title": "Corratec E-Power X Vert Race 2021",
-      "description": "Bicicleta Corratec E-Power X Vert Race, de asistencia eléctrica al pedaleo con batería Bosch Power Tube 500wh, lleva rueda trasera de 27,5 y delantera en 29, transmisión Sram SX de 12 velocidades y frenos Tektro para uso Recreativo.",
+      "description": "Bicicleta Corratec E-Power X Vert Race, de asistencia eléctrica al pedaleo con batería Bosch Power Tube 500wh.",
       "price": 5000,
       "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/_0_459360.jpg"
    },
    {
       "id": 6,
       "title": "Conor Nepal E-Mtb 27,5 2022",
-      "description": "Bicicleta de asistencia eléctrica al pedaleo Nepal E-Mtb 27,5, viene equipada con Motor BAFANG RM 250 y batería dede 504 Wh, para uso Recreativo.",
+      "description": "Bicicleta de asistencia eléctrica al pedaleo Nepal E-Mtb 27,5, viene equipada con Motor BAFANG RM 250 y batería dede 504 Wh.",
       "price": 6000,
       "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/472025.jpg"
    }
