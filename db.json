@@ -64,4 +64,11 @@
       "pictureUrl": "https://cdn.mammothbikes.com/ProductImages/list/424587.png"
    }
 ]
-}
+},
+"categories": [
+    {
+      "MTB",
+      "Electrica",
+      "Paseo"
+    }
+  ],
